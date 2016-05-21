@@ -1,0 +1,7 @@
+A simple match game
+
+Lauch the game with './allum1 [number of line] [pvp]'
+
+The PVP argument is used to play against another player and not the AI
+
+WARNING: the AI is retarded
